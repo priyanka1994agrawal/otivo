@@ -1,0 +1,11 @@
+# Backend #
+###########
+/app/vendor
+.DS_Store
+/app/.phpunit.result.cache
+
+# Front end #
+#############
+
+/vue/node_modules
+/vue/.DS_Store
